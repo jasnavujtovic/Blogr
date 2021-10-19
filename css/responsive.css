@@ -108,7 +108,7 @@ R E S P O N S I V E
         font-size: 1.2rem;
     }
     header {
-        background-image: url(../images/bg-pattern-intro.svg),linear-gradient(var(--very-light-red-gradient),var(--light-red-gradients));
+        background-image: url(/images/bg-pattern-intro.svg),linear-gradient(var(--very-light-red-gradient),var(--light-red-gradients));
         background-position: center;
     }
     header article {
