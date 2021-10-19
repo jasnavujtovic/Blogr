@@ -104,7 +104,7 @@ nav .logo {
     display: block;
 }
 .subMenu::after {
-    content:  url(../images/icon-arrow-light.svg);
+    content:  url(/images/icon-arrow-light.svg);
     display: block;
     margin-left: 10px;
     transition: transform var(--transition);
