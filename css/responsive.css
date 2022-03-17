@@ -108,7 +108,7 @@ R E S P O N S I V E
         font-size: 1.2rem;
     }
     header {
-        background-image: url(/images/bg-pattern-intro.svg),linear-gradient(var(--very-light-red-gradient),var(--light-red-gradients));
+        background-image: url(../images/bg-pattern-intro.svg),linear-gradient(var(--very-light-red-gradient),var(--light-red-gradients));
         background-position: center;
     }
     header article {
@@ -134,7 +134,7 @@ R E S P O N S I V E
         padding-bottom: 120px;
     }
     .about .img {
-        background-image: url(/images/illustration-editor-mobile.svg);
+        background-image: url(../images/illustration-editor-mobile.svg);
         background-position: center;
         height: 60vh;
         flex: 0 0 100%;
@@ -145,7 +145,7 @@ R E S P O N S I V E
         height: 100vh;
     }
     .state {
-        background-image: url(/images/bg-pattern-circles.svg),linear-gradient(to right,var(--very-dark-gray-blue-gradient),var(--very-dark-desaturated-blue));
+        background-image: url(../images/bg-pattern-circles.svg),linear-gradient(to right,var(--very-dark-gray-blue-gradient),var(--very-dark-desaturated-blue));
         background-repeat: no-repeat;
         background-position: right 45% bottom -32%;
     }
@@ -175,7 +175,7 @@ R E S P O N S I V E
     }
     .cta .img {
         flex: 0 0 100%;
-        background-image: url(/images/illustration-laptop-mobile.svg);
+        background-image: url(../images/illustration-laptop-mobile.svg);
         background-position: center;
         height: 60vh;
     }
